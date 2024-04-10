@@ -1,0 +1,257 @@
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.AssemblyReference.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.SuggestedBindingRedirects.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Buttons.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Colors.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ContactCard.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ListViews.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Pages.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Texts.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\UserControls.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Windows.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\EmployeeUC.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.lref
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe.config
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\bin\Debug\System.Data.SqlClient.dll
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\bin\Debug\System.Data.SqlClient.xml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Fonts.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\EmployeeUC.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.g.resources
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.Properties.Resources.resources
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.GenerateResource.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CoreCompileInputs.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CopyComplete
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\josephjean-charles\source\repos\PROG32356\W2023\WPF Fundamentals\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe.config
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\bin\Debug\System.Data.SqlClient.xml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.AssemblyReference.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.SuggestedBindingRedirects.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Buttons.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Colors.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ContactCard.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Fonts.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ListViews.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Pages.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Texts.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\UserControls.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Windows.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\EmployeeUC.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.lref
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\EmployeeUC.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.baml
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.g.resources
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.Properties.Resources.resources
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.GenerateResource.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CoreCompileInputs.cache
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CopyComplete
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\josephjean-charles\source\repos\PROG32356\Students\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe.config
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\System.Data.SqlClient.xml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.AssemblyReference.cache
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Buttons.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Colors.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ContactCard.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Fonts.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ListViews.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Pages.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Texts.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\UserControls.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Windows.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\EmployeeUC.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.cache
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.lref
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\EmployeeUC.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.g.resources
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.Properties.Resources.resources
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.GenerateResource.cache
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CoreCompileInputs.cache
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CopyComplete
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ProductUC.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Admin.g.cs
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.AssemblyReference.cache
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Buttons.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Colors.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ContactCard.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Fonts.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ListViews.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Pages.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Texts.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\UserControls.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Windows.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Admin.g.cs
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ProductUC.g.cs
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.g.cs
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.g.cs
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.g.cs
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.cache
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.lref
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe.config
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\System.Data.SqlClient.xml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Admin.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ProductUC.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.baml
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.g.resources
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.Properties.Resources.resources
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.GenerateResource.cache
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CoreCompileInputs.cache
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.W.16B66DB3.Up2Date
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Pages_New\HomePage.g.cs
+C:\Study\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Pages_New\HomePage.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe.config
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\System.Data.SqlClient.xml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.AssemblyReference.cache
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Buttons.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Colors.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ContactCard.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Fonts.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ListViews.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Pages.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Texts.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\UserControls.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Windows.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Admin.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Pages_New\HomePage.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ProductUC.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.cache
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.lref
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Admin.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Pages_New\HomePage.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ProductUC.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.baml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.g.resources
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.Properties.Resources.resources
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.GenerateResource.cache
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CoreCompileInputs.cache
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CopyComplete
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.dll
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.xml
+C:\Users\uppal\OneDrive\Documents\KARAM-4th SEM\.NET\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.AssemblyReference.cache
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Buttons.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Colors.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ContactCard.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Fonts.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ListViews.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Pages.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Texts.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\UserControls.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Windows.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Admin.g.cs
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Pages_New\HomePage.g.cs
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ProductUC.g.cs
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.g.cs
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.g.cs
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.g.cs
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.cache
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.lref
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe.config
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.dll
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.xml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\System.Data.SqlClient.xml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Admin.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Pages_New\HomePage.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ProductUC.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.baml
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.g.resources
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.Properties.Resources.resources
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.GenerateResource.cache
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CoreCompileInputs.cache
+C:\Users\chint\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.W.16B66DB3.Up2Date
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe.config
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\CSharp.WPF.ADO.ConnectionModels.pdb
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.dll
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.xml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\bin\Debug\System.Data.SqlClient.xml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.AssemblyReference.cache
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Buttons.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Colors.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ContactCard.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Fonts.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\ListViews.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Pages.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Texts.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\UserControls.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Styles\Windows.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Admin.g.cs
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Pages_New\HomePage.g.cs
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ProductUC.g.cs
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.g.cs
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.g.cs
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.g.cs
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.cache
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels_MarkupCompile.lref
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\App.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Admin.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\Pages_New\HomePage.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ProductUC.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\UserControls\ShellMainUC.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\Views\MainView.baml
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.g.resources
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.Properties.Resources.resources
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.GenerateResource.cache
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CoreCompileInputs.cache
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.csproj.CopyComplete
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.exe
+C:\Users\uppal\OneDrive\Desktop\Assignment_3_C_Sharp_Updated_AlmostFinal\WPF-ADO-ConnectionModels\CSharp.WPF.ADO.ConnectionModels\obj\Debug\CSharp.WPF.ADO.ConnectionModels.pdb

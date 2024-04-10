@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CSharp.WPF.ADO.ConnectionModels.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NorthwindSqlServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=.\SQLEXPRESS;Database=Northwind;Trusted_Connection=Yes;</Value>
+    </Setting>
+    <Setting Name="Assignment2SqlServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=LAPTOP-5IICC3LV\SQLEXPRESS;Database=Assignment2;Trusted_Connection=True;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
