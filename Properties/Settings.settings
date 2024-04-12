@@ -6,7 +6,9 @@
       <Value Profile="(Default)">Server=.\SQLEXPRESS;Database=Northwind;Trusted_Connection=Yes;</Value>
     </Setting>
     <Setting Name="Assignment2SqlServer" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">Server=LAPTOP-5IICC3LV\SQLEXPRESS;Database=Assignment2;Trusted_Connection=True;</Value>
+      <Value Profile="(Default)">
+Server=Chintan_beast\SQLEXPRESS01;Database=Assignment2;Trusted_Connection=Yes;
+				</Value>
     </Setting>
   </Settings>
 </SettingsFile>

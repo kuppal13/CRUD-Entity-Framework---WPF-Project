@@ -12,7 +12,7 @@ namespace CSharp.WPF.ADO.ConnectionModels.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.8.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.9.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -34,7 +34,8 @@ namespace CSharp.WPF.ADO.ConnectionModels.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Server=LAPTOP-5IICC3LV\\SQLEXPRESS;Database=Assignment2;Trusted_Connection=True;")]
+        [global::System.Configuration.DefaultSettingValueAttribute("\r\nServer=Chintan_beast\\SQLEXPRESS01;Database=Assignment2;Trusted_Connection=Yes;\r" +
+            "\n\t\t\t\t")]
         public string Assignment2SqlServer {
             get {
                 return ((string)(this["Assignment2SqlServer"]));
